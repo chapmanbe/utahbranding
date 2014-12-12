@@ -1,0 +1,32 @@
+div.Header div.HeaderLogo {
+  background: url('../images/Ulogo.png') no-repeat 0% 0%;
+  height: 200px;
+  width: 285px;
+  float: left;
+  cursor: pointer;
+}
+
+div.Header {
+  background: white;
+  height: 200px;
+}
+
+div.Header div.HeaderContent {
+  height: 200px;
+}
+
+div.HeaderContent div.HeaderSearch {
+  padding-top: 66px;
+}
+
+div.HeaderContent div.HeaderAction {
+  padding-top: 66px;
+}
+
+.licenseSelectMessage {
+  display: none;
+}
+
+.additionalMessage {
+  display: none;
+}
